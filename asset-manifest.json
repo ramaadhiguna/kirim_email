@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/kirim_email/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/kirim_email/static/js/main.44530a8b.chunk.js",
+    "main.js.map": "/kirim_email/static/js/main.44530a8b.chunk.js.map",
+    "runtime-main.js": "/kirim_email/static/js/runtime-main.9d3af617.js",
+    "runtime-main.js.map": "/kirim_email/static/js/runtime-main.9d3af617.js.map",
+    "static/css/2.8eaaa3eb.chunk.css": "/kirim_email/static/css/2.8eaaa3eb.chunk.css",
+    "static/js/2.88d5afde.chunk.js": "/kirim_email/static/js/2.88d5afde.chunk.js",
+    "static/js/2.88d5afde.chunk.js.map": "/kirim_email/static/js/2.88d5afde.chunk.js.map",
+    "static/js/3.163c450b.chunk.js": "/kirim_email/static/js/3.163c450b.chunk.js",
+    "static/js/3.163c450b.chunk.js.map": "/kirim_email/static/js/3.163c450b.chunk.js.map",
+    "index.html": "/kirim_email/index.html",
+    "static/css/2.8eaaa3eb.chunk.css.map": "/kirim_email/static/css/2.8eaaa3eb.chunk.css.map",
+    "static/css/main.ab7136cd.chunk.css.map": "/kirim_email/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.88d5afde.chunk.js.LICENSE.txt": "/kirim_email/static/js/2.88d5afde.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/kirim_email/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d3af617.js",
+    "static/css/2.8eaaa3eb.chunk.css",
+    "static/js/2.88d5afde.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.44530a8b.chunk.js"
+  ]
+}
